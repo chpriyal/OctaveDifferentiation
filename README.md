@@ -8,10 +8,15 @@ The system has been designed TMS320C6713 DSP based DSK6713 kit (hardware impleme
 ## System Description
 
 The system consists of:
+
 • DIP switches
+
 • LEDs
+
 • High pass Filter
+
 • Low Pass Filter
+
 The project is implemented on a TMS320C6455 DSP based DSK6455 kit.
 
 ## Specifications:
